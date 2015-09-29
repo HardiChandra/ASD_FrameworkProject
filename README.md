@@ -1,6 +1,7 @@
 ASD_FrameworkProject
 ====================
-This is a project to design a framework for Bank and Credit Card Application.
+This is an academic project for Advance Software Development course.
+The goal was to design a framework for Bank and Credit Card Application.
 We refactor existing code from Bank and Credit Card application and implement some design patterns 
 to make the design more open to extension and close for modification.
 
